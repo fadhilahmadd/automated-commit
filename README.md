@@ -1,4 +1,4 @@
-## Many Thanks To
+# Many Thanks To
 
 https://github.com/dante4rt/automated-commit
 
