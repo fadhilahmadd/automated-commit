@@ -1,3 +1,7 @@
+## Many Thanks To
+
+https://github.com/dante4rt/automated-commit
+
 # Automated-Commit
 
 This repository contains a GitHub Actions workflow that automatically updates a file named `TIMESTAMP.txt` with the current date and time every 12 hours. This README provides a detailed overview of how the workflow operates and guides you through customizing and using it, especially if you're new to GitHub or GitHub Actions.
@@ -61,6 +65,3 @@ Contributions are welcome! Feel free to fork the repository, make your changes, 
 For issues or questions, please file an issue in the `Issues` section of the repository.
 
 Thank you for exploring the Automated-Commit workflow!
-
-## Many Thanks To
-https://github.com/dante4rt/automated-commit
