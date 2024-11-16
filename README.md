@@ -61,3 +61,6 @@ Contributions are welcome! Feel free to fork the repository, make your changes, 
 For issues or questions, please file an issue in the `Issues` section of the repository.
 
 Thank you for exploring the Automated-Commit workflow!
+
+## Many Thanks To
+https://github.com/dante4rt/automated-commit
